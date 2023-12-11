@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "username": "Samarath",
+      "emailAddress": "samrath@gamil.com",
+      "password": "Sam223344",
+      "confirmpassword": "Sam223344",
+      "cart": [],
+      "id": 3,
+      "userDetails": {
+        "firstName": "Summer",
+        "lastName": "adjkf",
+        "gender": "female",
+        "contactNumber": "9888675844",
+        "emailId": "samrath@gamil.com",
+        "address": "wefwqf",
+        "pincode": "9845",
+        "district": "Abcdef",
+        "state": "lkwmf",
+        "country": "kjewnbf"
+      }
+    },
+    {
+      "username": "Numeric",
+      "emailAddress": "numeric@gmail.com",
+      "password": "NUm223344",
+      "confirmpassword": "NUm223344",
+      "cart": [],
+      "id": 4,
+      "userDetails": {
+        "firstName": "abcde",
+        "lastName": "adjkf",
+        "gender": "female",
+        "contactNumber": "9888675844",
+        "emailId": "numeric@gmail.com",
+        "address": "ajhjdbfjhwbfjbwfhbf",
+        "pincode": "6732",
+        "district": "habdjhf",
+        "state": "KARNATAKA",
+        "country": "INDIA"
+      }
+    },
+    {
+      "username": "summer",
+      "emailaddress": "summer@gmail.com",
+      "password": "sum@123",
+      "confirmpassword": "sum@123",
+      "cart": [],
+      "id": 5,
+      "userDetails": {
+        "firstName": "summer",
+        "lastName": "winter",
+        "gender": "male",
+        "contactNumber": "9888675844",
+        "emailId": "summer@gmail.com",
+        "address": "Texas Newyork",
+        "pincode": "8745",
+        "district": "Texas",
+        "state": "New York",
+        "country": "USA"
+      }
+    },
+    {
+      "username": "Coder HUB",
+      "emailAddress": "code@gmail.com",
+      "password": "Cod112233",
+      "confirmpassword": "Cod112233",
+      "cart": [],
+      "id": 6,
+      "userDetails": {
+        "firstName": "Code",
+        "lastName": "HUB",
+        "gender": "male",
+        "contactNumber": "9888675844",
+        "emailAddress": "code@gmail.com",
+        "address": "codeing platform bengaluru",
+        "pincode": "094805",
+        "district": "Bengaluru",
+        "state": "KARNATAKA",
+        "country": "INDIA"
+      },
+      "cardDetails": {
+        "cardusername": "jnekfnef",
+        "cardnumber": "09u234u023922034",
+        "cardexpiredate": "",
+        "cardcvv": "123",
+        "expDate": "12/24"
+      },
+      "COD": "no"
+    }
+  ]
+}
